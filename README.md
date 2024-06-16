@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # Linked List
 |  |
 | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/surajit1312/DSA_Java_Challenge_120Days/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/surajit1312/DSA_Java_Challenge_120Days/tree/master/0206-reverse-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/surajit1312/DSA_Java_Challenge_120Days/tree/master/0908-middle-of-the-linked-list) |
 # Recursion
@@ -14,4 +15,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # Two Pointers
 |  |
 | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/surajit1312/DSA_Java_Challenge_120Days/tree/master/0160-intersection-of-two-linked-lists) |
 | [0908-middle-of-the-linked-list](https://github.com/surajit1312/DSA_Java_Challenge_120Days/tree/master/0908-middle-of-the-linked-list) |
+# Hash Table
+|  |
+| ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/surajit1312/DSA_Java_Challenge_120Days/tree/master/0160-intersection-of-two-linked-lists) |
