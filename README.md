@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/surajit1312/DSA_Java_Challenge_120Days/tree/master/LinkedList/Easy/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/surajit1312/DSA_Java_Challenge_120Days/tree/master/LinkedList/Easy/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/surajit1312/DSA_Java_Challenge_120Days/tree/master/LinkedList/Easy/0206-reverse-linked-list) |
+| [0237-delete-node-in-a-linked-list](https://github.com/surajit1312/DSA_Java_Challenge_120Days/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/surajit1312/DSA_Java_Challenge_120Days/tree/master/LinkedList/Easy/0908-middle-of-the-linked-list) |
 # Recursion
 |  |
