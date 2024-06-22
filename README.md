@@ -7,7 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/surajit1312/DSA_Java_Challenge_120Days/tree/master/LinkedList/Easy/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/surajit1312/DSA_Java_Challenge_120Days/tree/master/LinkedList/Easy/0141-linked-list-cycle) |
-| [0142-linked-list-cycle-ii](https://github.com/surajit1312/DSA_Java_Challenge_120Days/tree/master/0142-linked-list-cycle-ii) |
+| [0142-linked-list-cycle-ii](https://github.com/surajit1312/DSA_Java_Challenge_120Days/tree/master/LinkedList/Medium/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/surajit1312/DSA_Java_Challenge_120Days/tree/master/LinkedList/Easy/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/surajit1312/DSA_Java_Challenge_120Days/tree/master/LinkedList/Easy/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/surajit1312/DSA_Java_Challenge_120Days/tree/master/LinkedList/Easy/0206-reverse-linked-list) |
@@ -37,7 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/surajit1312/DSA_Java_Challenge_120Days/tree/master/BinarySearch/Medium/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/surajit1312/DSA_Java_Challenge_120Days/tree/master/BinarySearch/Medium/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/surajit1312/DSA_Java_Challenge_120Days/tree/master/BinarySearch/Easy/0792-binary-search) |
-| [1927-maximum-ascending-subarray-sum](https://github.com/surajit1312/DSA_Java_Challenge_120Days/tree/master/1927-maximum-ascending-subarray-sum) |
+| [1927-maximum-ascending-subarray-sum](https://github.com/surajit1312/DSA_Java_Challenge_120Days/tree/master/Array/Easy/1927-maximum-ascending-subarray-sum) |
 # Binary Search
 |  |
 | ------- |
