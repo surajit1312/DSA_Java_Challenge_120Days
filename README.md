@@ -5,7 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # Linked List
 |  |
 | ------- |
-| [0021-merge-two-sorted-lists](https://github.com/surajit1312/DSA_Java_Challenge_120Days/tree/master/0021-merge-two-sorted-lists) |
+| [0021-merge-two-sorted-lists](https://github.com/surajit1312/DSA_Java_Challenge_120Days/tree/master/LinkedList/Easy/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/surajit1312/DSA_Java_Challenge_120Days/tree/master/LinkedList/Easy/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/surajit1312/DSA_Java_Challenge_120Days/tree/master/LinkedList/Easy/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/surajit1312/DSA_Java_Challenge_120Days/tree/master/LinkedList/Medium/0142-linked-list-cycle-ii) |
