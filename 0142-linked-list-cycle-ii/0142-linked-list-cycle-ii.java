@@ -26,9 +26,6 @@ public class Solution {
                 break;
             }
         }
-        if (fast == null) {
-            return null;
-        }
         slow = head;
         while (slow != null && fast != null) {
             slow = slow.next;
